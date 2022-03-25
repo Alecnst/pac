@@ -8,7 +8,7 @@ public class Pacman extends JFrame{
 		add(new Model());
 	}
 	
-	
+	 //jjj
 	public static void main(String[] args) {
 		Pacman pac = new Pacman();
 		pac.setVisible(true);
